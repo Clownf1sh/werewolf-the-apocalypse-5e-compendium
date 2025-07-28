@@ -2,7 +2,7 @@ A compendium of player options from the corebook of Werewolf the Apocalypse 5th 
 
 Dark Pack
 
-<img width="300" height="308" alt="darkpack_logo2" src="(https://images.ctfassets.net/u73tyf0fa8v1/3oBTHBZk9XmfcBlUPylvFh/673e4a6b14566548c03424ddf627b944/darkpack_logo2.png?w=3840&q=75)" />
+<img width="300" height="308" alt="darkpack_logo2" src="https://images.ctfassets.net/u73tyf0fa8v1/3oBTHBZk9XmfcBlUPylvFh/673e4a6b14566548c03424ddf627b944/darkpack_logo2.png?w=3840&q=75" />
 
 We have made every effort to keep the Dark Pack guidelines as posted at Dark Pack Agreement.
 
