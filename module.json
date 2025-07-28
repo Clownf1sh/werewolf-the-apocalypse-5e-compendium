@@ -1,0 +1,66 @@
+{
+  "id": "werewolf-the-apocalypse-5e-compendium",
+  "title": "Werewolf the Apocalypse 5e Compendium",
+  "version": "1.0.0",
+  "manifest": "https://github.com/Clownf1sh/werewolf-the-apocalypse-5e-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/Clownf1sh/werewolf-the-apocalypse-5e-compendium/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "vtm5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Auspice",
+      "path": "packs/pack-1",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pack-2",
+      "label": "Tribe",
+      "path": "packs/pack-2",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gifts",
+      "label": "Gifts",
+      "path": "packs/gifts",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rites",
+      "label": "Advantages & Flaws",
+      "path": "packs/rites",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
